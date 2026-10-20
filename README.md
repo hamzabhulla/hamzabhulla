@@ -48,7 +48,7 @@ A browser-based notepad designed for rich-text notes, checklists, sketches, and 
 - Offline app-shell support
 - Import, export, and backup workflows
 
-**Repository:** https://github.com/hamzadevs11/web-notepad
+**Repository:** https://github.com/hamzabhulla/web-notepad
 
 ### Savoria — Restaurant Web Platform
 
@@ -58,7 +58,7 @@ A restaurant web project combining customer-facing ordering experiences with res
 - Administrative tools for restaurant operations
 - Full-stack architecture using Next.js, TypeScript, Prisma, and PostgreSQL
 
-**Repository:** https://github.com/hamzadevs11/Savoria-Restaurant
+**Repository:** https://github.com/hamzabhulla/Savoria-Restaurant
 
 ### Personal Portfolio
 
@@ -66,7 +66,7 @@ A website showcasing my web development work and projects.
 
 **Live portfolio:** https://hamzaportfolio-eight.vercel.app
 
-**Source code:** https://github.com/hamzadevs11/hamzaportfolio
+**Source code:** https://github.com/hamzabhulla/hamzaportfolio
 
 ## What I Can Help With
 
