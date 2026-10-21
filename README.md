@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://hamzaportfolio-eight.vercel.app">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/hamzadevs11">GitHub</a>
+  <a href="https://github.com/hamzabhulla">GitHub</a>
 </p>
 
 <p align="center"><strong>Open to remote opportunities and freelance projects.</strong></p>
