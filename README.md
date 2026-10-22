@@ -81,7 +81,7 @@ A website showcasing my work and projects.
 
 ## Let's work together
 
-I'm open to remote developer roles, freelance engagements, and project-based collaborations. If you're hiring or need help building a web product, start with my [portfolio](https://hamzaportfolio-eight.vercel.app) or the projects above, then get in touch.
+I'm open to remote developer roles, freelance engagements, and project-based collaborations. If you're hiring or need help building a web product, start with my [portfolio](https://iamhamza.vercel.app) or the projects above, then get in touch.
 
 📧 **Email:** [heyhamza.dev@gmail.com](mailto:heyhamza.dev@gmail.com)
 
