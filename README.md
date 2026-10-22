@@ -5,7 +5,7 @@ I build modern web apps with thoughtful UI, practical product features, and main
 **Open to remote roles and freelance projects.**
 🌍 Based in Pakistan (UTC+5), working remotely.
 
-[Portfolio](https://hamzaportfolio-eight.vercel.app) · [VibeTalk (live)](https://vibetalk.hamzabhulla.workers.dev) · [Web Notepad (live)](https://easynotepad.vercel.app) · [Email me](mailto:heyhamza.dev@gmail.com)
+[Portfolio](https://iamhamza.vercel.app) · [VibeTalk (live)](https://vibetalk.hamzabhulla.workers.dev) · [Web Notepad (live)](https://easynotepad.vercel.app) · [Emer&Co (Live)](embercoui.vercel.app) · [Email me](mailto:heyhamza.dev@gmail.com)
 
 ---
 
