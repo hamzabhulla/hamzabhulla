@@ -2,7 +2,7 @@
 
 I build modern web apps with thoughtful UI, practical product features, and maintainable code — from responsive interfaces to the APIs, databases, and real-time features behind them.
 
-**Open to remote roles and freelance projects.**
+**Open to remote roles and freelance projects.**  
 🌍 Based in Pakistan (UTC+5), working remotely.
 
 [Portfolio](https://iamhamza.vercel.app) · [VibeTalk (live)](https://vibetalk.hamzabhulla.workers.dev) · [Web Notepad (live)](https://easynotepad.vercel.app) · [Emer&Co (Live)](https://embercoui.vercel.app) · [Email me](mailto:heyhamza.dev@gmail.com)
@@ -21,6 +21,18 @@ A full-stack messaging app: direct messages and group rooms, voice notes, WebRTC
 - **Stack:** React 19 · TypeScript · TanStack Start · Supabase · Tailwind CSS
 
 **[Live demo](https://vibetalk.hamzabhulla.workers.dev)** · **[Source](https://github.com/hamzabhulla/VibeTalk)**
+
+### RESI D'ELITE Admin Dashboard — WhatsApp booking operations
+
+An admin dashboard for a WhatsApp booking bot, bringing booking leads, guest conversations, AI training, property listings, WhatsApp connection management, and operational settings into one place.
+
+- Admin access enforced by Supabase Row Level Security across all seven database tables, rather than relying on frontend-only checks
+- Two-admin approval workflow for AI training answers, plus controls for VIP guests, escalations, and pausing or resuming AI per conversation
+- Manage the bot's property catalogue and WhatsApp connection through database commands, with QR codes generated locally in the browser
+- **46 passing automated tests** with Vitest and Testing Library, run through GitHub Actions
+- **Stack:** React 18 · JavaScript · Vite · Tailwind CSS · Supabase · Vitest · Testing Library
+
+**[Source](https://github.com/hamzabhulla/WhatsApp-Concierge-ResideElite)**
 
 ### Web Notepad — local-first notes with drawing and sync
 
@@ -53,13 +65,13 @@ A website showcasing my work and projects.
 
 ## Tech stack
 
-**Frontend** — React · Next.js · TanStack Start · TypeScript · JavaScript · Tailwind CSS · Framer Motion · Three.js
+**Frontend** — React · TypeScript · JavaScript · TanStack Start · Tailwind CSS · Vite
 
-**Backend and data** — REST APIs · Prisma · PostgreSQL · Supabase · Upstash Redis
+**Backend and data** — Supabase · PostgreSQL · Upstash Redis · Vercel Functions
 
 **Real-time and web platform** — WebRTC · Supabase Realtime · Web Push · Service Workers · PWA
 
-**Tools and deployment** — Git · GitHub · Vite · Vercel · Cloudflare Workers
+**Testing and delivery** — Vitest · Testing Library · Git · GitHub Actions · Vercel · Cloudflare Workers
 
 ---
 
