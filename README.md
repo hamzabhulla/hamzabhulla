@@ -59,7 +59,7 @@ A restaurant web platform that combines a customer-facing ordering experience wi
 
 A website showcasing my work and projects.
 
-**[Live portfolio](https://hamzaportfolio-eight.vercel.app)** · **[Source](https://github.com/hamzabhulla/hamzaportfolio)**
+**[Live portfolio](https://iamhamza.vercel.app)** · **[Source](https://github.com/hamzabhulla/hamzaportfolio)**
 
 ---
 
