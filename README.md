@@ -7,9 +7,9 @@ I build modern web apps with thoughtful UI, practical product features, and main
 **Open to remote roles and freelance projects.**  
 🌍 Based in Pakistan (UTC+5), working remotely.
 
-**Find me online:** [Portfolio](https://hamzabhulla.vercel.app) · [GitHub](https://github.com/hamzabhulla) · [X](https://x.com/hamzabuild) · [Instagram](https://www.instagram.com/hc.ai.founder) · [Email me](mailto:heyhamza.dev@gmail.com)
+**Find me online:** [Portfolio](https://hamzabhulla.vercel.app) · [GitHub](https://github.com/hamzabhulla) · [X](https://x.com/hamzabuild) · [Instagram](https://www.instagram.com/hamzabhulla_) · [Email me](mailto:heyhamza.dev@gmail.com)
 
-[Portfolio](https://hamzabhulla.vercel.app) · [VibeTalk (live)](https://vibetalk.hamzabhulla.workers.dev) · [Web Notepad (live)](https://easynotepad.vercel.app) · [Emer&Co (Live)](https://embercoui.vercel.app) · [X(Twitter)](https://x.com/hamzabuild) · [Instagram](https://www.instagram.com/hc.ai.founder) · [Email me](mailto:heyhamza.dev@gmail.com)
+[Portfolio](https://hamzabhulla.vercel.app) · [VibeTalk (live)](https://vibetalk.hamzabhulla.workers.dev) · [Web Notepad (live)](https://easynotepad.vercel.app) · [Emer&Co (Live)](https://embercoui.vercel.app) · [X(Twitter)](https://x.com/hamzabuild) · [Instagram](https://www.instagram.com/hamzabhulla_) · [Email me](mailto:heyhamza.dev@gmail.com)
 
 ---
 
