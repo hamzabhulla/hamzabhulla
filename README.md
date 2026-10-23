@@ -1,11 +1,15 @@
-# Hamza Bhulla · Full-Stack Web Developer
+# Hamza Bhulla | Full-Stack Web Developer
+
+I'm Hamza Bhulla, a Pakistan-based full-stack web developer building modern web applications with React, TypeScript, Supabase, and PostgreSQL.
 
 I build modern web apps with thoughtful UI, practical product features, and maintainable code — from responsive interfaces to the APIs, databases, and real-time features behind them.
 
 **Open to remote roles and freelance projects.**  
 🌍 Based in Pakistan (UTC+5), working remotely.
 
-[Portfolio](https://iamhamza.vercel.app) · [VibeTalk (live)](https://vibetalk.hamzabhulla.workers.dev) · [Web Notepad (live)](https://easynotepad.vercel.app) · [Emer&Co (Live)](https://embercoui.vercel.app) · [X(Twitter)](https://x.com/hamzabuild) · [Instagram](https://www.instagram.com/hc.ai.founder) · [Email me](mailto:heyhamza.dev@gmail.com)
+**Find me online:** [Portfolio](https://hamzabhulla.vercel.app) · [GitHub](https://github.com/hamzabhulla) · [X](https://x.com/hamzabuild) · [Instagram](https://www.instagram.com/hc.ai.founder) · [Email me](mailto:heyhamza.dev@gmail.com)
+
+[Portfolio](https://hamzabhulla.vercel.app) · [VibeTalk (live)](https://vibetalk.hamzabhulla.workers.dev) · [Web Notepad (live)](https://easynotepad.vercel.app) · [Emer&Co (Live)](https://embercoui.vercel.app) · [X(Twitter)](https://x.com/hamzabuild) · [Instagram](https://www.instagram.com/hc.ai.founder) · [Email me](mailto:heyhamza.dev@gmail.com)
 
 ---
 
@@ -59,7 +63,7 @@ A restaurant web platform that combines a customer-facing ordering experience wi
 
 A website showcasing my work and projects.
 
-**[Live portfolio](https://iamhamza.vercel.app)** · **[Source](https://github.com/hamzabhulla/hamzaportfolio)**
+**[Live portfolio](https://hamzabhulla.vercel.app)** · **[Source](https://github.com/hamzabhulla/hamzaportfolio)**
 
 ---
 
@@ -93,7 +97,7 @@ A website showcasing my work and projects.
 
 ## Let's work together
 
-I'm open to remote developer roles, freelance engagements, and project-based collaborations. If you're hiring or need help building a web product, start with my [portfolio](https://iamhamza.vercel.app) or the projects above, then get in touch.
+I'm open to remote developer roles, freelance engagements, and project-based collaborations. If you're hiring or need help building a web product, start with my [portfolio](https://hamzabhulla.vercel.app) or the projects above, then get in touch.
 
 📧 **Email:** [heyhamza.dev@gmail.com](mailto:heyhamza.dev@gmail.com)
 
